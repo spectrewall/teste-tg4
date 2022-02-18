@@ -1,0 +1,17 @@
+{
+  "name": "teste-tg4",
+  "version": "1.0.0",
+  "description": "Calcula comissão de venda de produtos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "author": "Wallace Carvalho",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
